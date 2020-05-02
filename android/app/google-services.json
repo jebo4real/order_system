@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767918471194",
+    "firebase_url": "https://jebo-ordering-system.firebaseio.com",
+    "project_id": "jebo-ordering-system",
+    "storage_bucket": "jebo-ordering-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767918471194:android:2a6cb7118084c3590979a3",
+        "android_client_info": {
+          "package_name": "com.example.ordersystem_j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767918471194-ctd9ifikkaimojpj7kgak6ktb7lvja74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zRk__xvVhp62MyPq8GCJCbThjC8rQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767918471194-ctd9ifikkaimojpj7kgak6ktb7lvja74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
